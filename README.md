@@ -1,11 +1,16 @@
-<div align="center">
+# CRASH *(gambling game)*
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+❗❗❗**I don't tolerate gambling because it can lead to big money losses, this is just a showcase in which I show curious people what a simple algorithm for CRASH would look like.**
 
-  <h1>Built with AI Studio</h2>
+❗❗❗**Let's not forget that the casinos bring us only losses and that all the games favor the casinos!**
 
-  <p>The fastest path from prompt to production with Gemini.</p>
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+This small showcase presents a CRASH game (source code) made with a simple algorithm.
+<br>This program is written in C++.
+## Compatibility:
+<ul>
+<li>MacOS</li>
+<li>Linux (I didn't test it)</li>
+</ul>
 
-</div>
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
